@@ -1,0 +1,9 @@
+python search.py http://rss.cnn.com/rss/edition_europe.rss France
+
+python search.py http://komputronik.pl/pl/news/rss Acer
+
+python search.py http://feeds2.feedburner.com/Antyweb Grzegorz Marczak
+
+python search.py http://www.fly4free.pl/feed Ryanair
+
+python search.py http://www.thetimes.co.uk/tto/news/rss Syria
